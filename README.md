@@ -1,6 +1,7 @@
 # my_grocery
 
-A new Flutter project.
+A Flutter frontend project. Naming is just for setting up a trial project
+
 
 ## Getting Started
 
